@@ -1,2 +1,2 @@
 # llm_zoomcamp
-RAG project
+RAG project from datatalk zoomcamp
